@@ -2,6 +2,9 @@
 
 This project provides a proxy server for modifying iCal (.ics) files from FH Münster. It cleans up event summaries and descriptions, making them more readable and user-friendly.
 
+<img width="824" alt="image" src="https://github.com/user-attachments/assets/23cc95df-3fe5-469f-8e1b-e9e4fd241936">
+<img width="824" alt="image" src="https://github.com/user-attachments/assets/4e01faad-5a2e-4040-ac0d-1f8d13ff8afb">
+
 ## Features
 
 - Fetches an original iCal file from a specified URL
